@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Joachim S. Samoñez and I'm a graduating Information Technology from Cavite State University - Silang Campus. Here's some info about me!
+
+- 🌱 I’m currently learning Angular and ASP.NET Core so that I can further widen my knowledge on various technologies.
+
 <!--
 **Joachim-Samonez/Joachim-Samonez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
