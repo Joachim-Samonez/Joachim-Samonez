@@ -12,6 +12,10 @@ My name is Joachim S. Samoñez and I'm a graduating Information Technology stude
 
 • ASP.NET Core
 
+• Entity Framework
+
+• Microsoft SQL
+
 <!--
 **Joachim-Samonez/Joachim-Samonez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
