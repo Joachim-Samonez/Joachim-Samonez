@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Joachim S. Samoñez and I'm a graduating Information Technology student from Cavite State University - Silang Campus. Here's some info about me!
+My name is Joachim S. Samoñez and I'm a fresh graduate of Information Technology student from Cavite State University - Silang Campus. Here's some info about me!
 
 ⚡ Work Experience:
 
-• Software Engineer Intern at You_Source.
+• Software Engineer Intern at You_Source
 
 🌱 Currently Learning:
 
