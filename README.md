@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-My name is Joachim S. Samoñez and I'm a fresh graduate of Information Technology student from Cavite State University - Silang Campus. Here's some info about me!
+My name is Joachim S. Samoñez and here's some info about me!
 
 ⚡ Work Experience:
 
 • Software Engineer Intern at You_Source
+• Technology Consultant at DXC Technology
 
 🌱 Currently Learning:
 
-• Angular | ASP.NET Core | Entity Framework | Microsoft SQL
+• React | ASP.NET Core | Entity Framework | Microsoft SQL
 
 <!--
 **Joachim-Samonez/Joachim-Samonez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
