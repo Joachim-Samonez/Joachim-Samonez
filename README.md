@@ -4,7 +4,7 @@ My name is Joachim S. Samoñez and here's some info about me!
 
 ⚡ Work Experience:
 
-• (3 Months) Software Engineer Intern at You_Source
+• Software Engineer Intern at You_Source
 <br>
 • Technology Consultant at DXC Technology
 
